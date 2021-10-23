@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+git+git://github.com/psf/black
+flake8
