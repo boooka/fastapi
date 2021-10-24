@@ -3,6 +3,16 @@
 [![requirements](https://img.shields.io/requires/github/boooka/fastapi)](https://img.shields.io/requires/github/boooka/fastapi)
 [![last-commit](https://img.shields.io/github/last-commit/boooka/fastapi)](https://github.com//boooka/fastapi)
 
+A vary simple template for bootstrapping a FastAPI. 
+## Why?
+
+A surprisingly interesting framework that interested me with detailed documentation that you will find at [FastAPI official
+docs](https://fastapi.tiangolo.com/). Uses a lot of modern features of the python. Here is a set of files that allow you to start using FastAPI in a couple of commands. 
+
+**FastAPI**: https://github.com/tiangolo/fastapi
+
+---
+
 ## Quick Start
 
 Install requirements, run
